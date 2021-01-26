@@ -1,0 +1,26 @@
+{{ define "main"}}
+  <main id="main">
+
+    <div class="container">
+  
+      {{ if .Site.Params.showSubheader }}
+        {{ partial "home/subheader.html" . }}
+      {{ end }}
+      
+        {{ range .Site.Sections }}
+            {{ range .Sections.ByWeight }}
+              <div class="row section featured topspace">
+                {{ $stype := .Type}}
+                {{ if eq $stype "members"}}
+                  <h2 class="section-title">
+                    <span>{{.Title}}</span>
+                  </h2>
+                  {{ partial "home/members.html" . }}
+                
+                {{ end }}
+            {{ end }}
+        {{ end }}
+  	</div>	<!-- /container -->
+  </main>
+
+{{ end }}

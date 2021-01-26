@@ -1,0 +1,113 @@
+baseURL = "https://tempkdw.github.io/"
+languageCode = "ko"
+title = "강원대학교 뭐시기 연구실"
+theme = "hugo-initio"
+publishDir = "docs"
+
+[params]
+    name = "강원대학교 뭐시기 연구실"
+    description = "뭐시기를 연구하는 강원대학교 연구실"
+    email = "jungahn@example.com"
+    phone = "01012341234"
+    address = "강원도 춘천시 강원대학교"
+    year = 2021
+    avatar = "images/profile.png"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/bg_image.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2021"
+    author = "Sergey Pozhilov (GetTemplate.com)"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = false
+    showDownloads = false
+    showClients = false
+
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+    customCss = ["css/custom.css"]
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "research"
+    url = "/research/"
+    weight = 4
+[[menu.main]]
+    name = "publication"
+    url = "/publication/"
+    weight = 5
+
+[params.disqus]
+    site = ""
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = ""
+
+[[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/nickname"
+    icon = "fab fa-facebook-square"
+    footer = true
+    sharethis = true
+    network = "facebook"
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/nickname"
+    icon = "fab fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/nickname"
+    icon = "fab fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "google+"
+	url = "https://plus.google.com/+nickname"
+    icon = "fab fa-google-plus-square"
+    footer = false
+    sharethis = true
+    network = "googleplus"
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/nickname"
+    icon = "fab fa-linkedin"
+    footer = false
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "tumblr"
+	url = "https://nickname.tumblr.com"
+    icon = "fab fa-tumblr-square"
+    footer = false
+    sharethis = false
+    network = "tumblr"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/nickname"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:some.email@somewhere.com"
+    icon = "fas fa-envelope-square"
+    footer = false
+    sharethis = true
+    network = "email"
