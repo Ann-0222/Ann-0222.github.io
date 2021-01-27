@@ -1,28 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on 강원대학교 뭐시기 연구실</title>
+    <title>Research on 강원대학교 물환경·고도수처리 연구실</title>
     <link>https://tempkdw.github.io/research/</link>
-    <description>Recent content in Research on 강원대학교 뭐시기 연구실</description>
+    <description>Recent content in Research on 강원대학교 물환경·고도수처리 연구실</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
-    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate><atom:link href="https://tempkdw.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko</language><atom:link href="https://tempkdw.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>연구1</title>
-      <link>https://tempkdw.github.io/research/data/</link>
-      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
+      <title>Micropollutant oxidation for AOPs: transformation products and toxicity</title>
+      <link>https://tempkdw.github.io/research/data1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tempkdw.github.io/research/data/</guid>
-      <description>연구1 연구1 연구1 연구1 연구1 연구1 연구1 연구1 연구1 연구1 연구1 연구1 연구1 연구1 연구1 연구1</description>
+      <guid>https://tempkdw.github.io/research/data1/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>연구2</title>
+      <title>Removal of various pollutant using environmental functional materials</title>
       <link>https://tempkdw.github.io/research/data2/</link>
-      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tempkdw.github.io/research/data2/</guid>
-      <description>연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of functionalized antimicrobial electrospun nanofibers</title>
+      <link>https://tempkdw.github.io/research/data3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tempkdw.github.io/research/data3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport of bacteria, bacteriophage, and nanomaterials in porous media</title>
+      <link>https://tempkdw.github.io/research/data4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tempkdw.github.io/research/data4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Treating cyanotoxins using light-assisted AOPs and functionalized-adsorbents</title>
+      <link>https://tempkdw.github.io/research/data0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tempkdw.github.io/research/data0/</guid>
+      <description></description>
     </item>
     
   </channel>

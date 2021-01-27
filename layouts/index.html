@@ -11,11 +11,12 @@
             {{ range .Sections.ByWeight }}
               <div class="row section featured topspace">
                 {{ $stype := .Type}}
-                {{ if eq $stype "members"}}
+                
+                {{ if eq $stype "research"}}
                   <h2 class="section-title">
                     <span>{{.Title}}</span>
                   </h2>
-                  {{ partial "home/members.html" . }}
+                  {{ partial "home/research.html" . }}
                 
                 {{ end }}
             {{ end }}

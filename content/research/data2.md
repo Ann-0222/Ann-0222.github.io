@@ -1,7 +1,6 @@
 +++
-date = "2013-06-17T12:00:00-00:00"
-title = "연구2"
+title = "Removal of various pollutant using environmental functional materials"
 
 +++
 
-연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 연구2 
+![이미지](../../images/researches/research_2.png)

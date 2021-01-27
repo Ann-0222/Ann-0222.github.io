@@ -24,12 +24,19 @@
   margin-bottom: 2em;
 }
 
-
+#head {
+  height: 300px;
+  background-size: 100% 150%;
+  background-position-y: 30%;
+}
 #head .title {
   font-family: Alice, Georgia, serif;
   font-size: 49px;
   font-size: 3.0625rem;
-  color: #000000;
+  color: #ffffff;
+}
+#head span{
+  margin-top: 100px;
 }
 #head .tagline {
   display: block;

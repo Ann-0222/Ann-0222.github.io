@@ -1,41 +1,37 @@
 baseURL = "https://tempkdw.github.io/"
 languageCode = "ko"
-title = "강원대학교 뭐시기 연구실"
+title = "강원대학교 물환경·고도수처리 연구실"
 theme = "hugo-initio"
 publishDir = "docs"
 
 [params]
-    name = "강원대학교 뭐시기 연구실"
-    description = "뭐시기를 연구하는 강원대학교 연구실"
-    email = "jungahn@example.com"
-    phone = "01012341234"
-    address = "강원도 춘천시 강원대학교"
+    name = "물환경·고도수처리 연구실"
+    description = "Water Environment & Advanced Treatment"
+    email = "pjaan@kanwon.ac.kr"
+    phone = "033) 250-6359"
+    address = "강원대학교 춘천캠퍼스 공학5관 410호 (교수오피스), 401호 (연구실오피스)"
     year = 2021
-    avatar = "images/profile.png"
-    avatarclass = "circle"
-    background = ""
     banner = "images/bg_image.jpg"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2021"
     author = "Sergey Pozhilov (GetTemplate.com)"
 
     showSubheader = true
-    showServices = true
+    showServices = false
     showRecentWorks = false
     showDownloads = false
     showClients = false
 
     footerEnableContact = true
-    footerEnableFollowme = true
-    footerEnableTextWidget = false
-    footerEnableFormWidget = false
-
-    customCss = ["css/custom.css"]
 
 [[menu.main]]
     name = "home"
     url = "/"
     weight = 1
+[[menu.main]]
+    name = "member"
+    url = "/member/"
+    weight = 2
 [[menu.main]]
     name = "research"
     url = "/research/"

@@ -1,0 +1,31 @@
+{{ define "main" }}
+<main id="main">
+
+	<div class="container">
+		<div class="row topspace">
+			<div class="col-sm-8 col-sm-offset-2">
+
+
+                <div class="thumbnails">
+                    {{ $data := .Resources.GetMatch .Params.file | transform.Unmarshal }} 
+                    {{ range $index, $area := $data }}
+                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 details">
+                                <span class="img">
+                                    <img src="{{ .image }}" alt="">
+                                </span>
+                        
+                            <span class="title text-center">{{ .title }}</span><br/>
+                            <span class="title text-center">{{ .name }}</span><br/>
+                            <span class="title text-center">{{ .email }} / {{ .phone }}</span><br/>
+                        </div>
+                    {{ end }}
+                </div>
+
+			</div>
+		</div>
+
+	</div>	<!-- /container -->
+
+</main>
+{{ end }}
+

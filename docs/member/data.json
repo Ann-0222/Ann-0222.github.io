@@ -1,0 +1,10 @@
+[
+    {
+        "id": 0,
+        "title": "교수",
+        "name": "박정안",
+        "image": "../images/jungahnpark.jpg",
+        "email": "jungahn.park@example.com",
+        "phone": "01012341234"
+    }
+]
