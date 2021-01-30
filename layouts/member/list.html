@@ -2,24 +2,47 @@
 <main id="main">
 
 	<div class="container">
-		<div class="row topspace">
-			<div class="col-sm-8 col-sm-offset-2">
+		<div class="row topspace member">
+			<div class="col-sm-12">
 
 
-                <div class="thumbnails">
-                    {{ $data := .Resources.GetMatch .Params.file | transform.Unmarshal }} 
-                    {{ range $index, $area := $data }}
-                        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 details">
-                                <span class="img">
-                                    <img src="{{ .image }}" alt="">
-                                </span>
-                        
-                            <span class="title text-center">{{ .title }}</span><br/>
-                            <span class="title text-center">{{ .name }}</span><br/>
-                            <span class="title text-center">{{ .email }} / {{ .phone }}</span><br/>
+                {{ $data := .Resources.GetMatch .Params.file | transform.Unmarshal }} 
+                {{ range $index, $area := $data }}
+                    <!-- Sidebar -->
+                    <aside class="col-sm-4 sidebar sidebar-right">
+                        <img class="img-thumbnail" src="{{ .image }}" alt="professor">
+        
+                        <div class="nav text-center nav-side">
+                            <li class="active"><a href="mailto:{{ .email }}">{{ .title }}</a></li>
                         </div>
-                    {{ end }}
-                </div>
+
+                        <div class="nav text-left nav-side member-description">
+                            {{ .name }}({{ .en_name }})<br>
+                            {{ .description }}<br>
+                            <br>
+                            Office: {{ .office }}<br>
+                            Tel: {{ .phone }}<br>
+                            Email: {{ .email }}<br>
+                        </div>
+
+                    </aside>
+                    <!-- /Sidebar -->
+
+                    <!-- Article main content -->
+                    <article class="col-sm-8 maincontent">
+                        {{ range $data := sort .bio "weight" }}
+                            <h2 class="section-title">
+                                <span>{{ $data.title }}</span>
+                            </h2>
+                            {{ range $item := $data.item }}
+                                {{ $item }}<br>
+                            {{ end }}
+                            <br>
+                        {{ end }}
+                    </article>
+                    <!-- /Article -->
+
+                {{ end }}
 
 			</div>
 		</div>

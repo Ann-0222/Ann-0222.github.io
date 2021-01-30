@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tempkdw.github.io/publication/kci_journals/</loc>
+  </url>
+  
+  <url>
     <loc>https://tempkdw.github.io/home/research/</loc>
   </url>
   
@@ -11,26 +15,15 @@
   </url>
   
   <url>
+    <loc>https://tempkdw.github.io/publication/patent/</loc>
+  </url>
+  
+  <url>
     <loc>https://tempkdw.github.io/research/</loc>
   </url>
   
   <url>
     <loc>https://tempkdw.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tempkdw.github.io/publication/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tempkdw.github.io/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tempkdw.github.io/publication/data/</loc>
-    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -50,7 +43,15 @@
   </url>
   
   <url>
+    <loc>https://tempkdw.github.io/publication/</loc>
+  </url>
+  
+  <url>
     <loc>https://tempkdw.github.io/research/data2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tempkdw.github.io/publication/sci_journals/</loc>
   </url>
   
   <url>
@@ -67,6 +68,10 @@
   
   <url>
     <loc>https://tempkdw.github.io/research/data0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tempkdw.github.io/</loc>
   </url>
   
 </urlset>

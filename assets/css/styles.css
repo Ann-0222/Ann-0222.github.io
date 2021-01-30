@@ -850,3 +850,15 @@ footer.entry-meta .meta-in {
       color: #004488;
    }
 }
+
+.member-description {
+  font-size: 14px;
+  font-size: 0.9rem;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.member {
+  font-size: 10px;
+  font-size: 0.8rem;
+  margin-bottom: 50px;
+}
