@@ -265,6 +265,7 @@ a:hover {
 #head .description {
   font-family: 'Imbue', serif;
   font-size: 25px;
+  letter-spacing: 0.13mm;
   color: #ffffffd5;
 }
 #head .tagline {
@@ -861,4 +862,17 @@ footer.entry-meta .meta-in {
   font-size: 10px;
   font-size: 0.8rem;
   margin-bottom: 50px;
+}
+
+.lead > p > img {
+  width: 20%;
+}
+
+.maincontent > p > img {
+  width: 50%;
+}
+
+.img-thumbnail {
+  width: 35%;
+  margin-right: 0;
 }

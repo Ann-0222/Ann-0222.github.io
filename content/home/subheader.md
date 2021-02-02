@@ -3,7 +3,7 @@ type = "subheader"
 title = ""
 +++
 
-![이미지](https://ec.europa.eu/jrc/sites/jrcsh/files/styles/normal-responsive/public/environmental-protection-683437_1280_pixabay_free_non-commercial.jpg?itok=4R4SASf7)
+![이미지](../images/home_image.jpeg)
 
 본 연구실에서는 다양한 수질 오염물질을 처리하는 공정개발을 위해  
 &#8291;1) 산화-환원반응, 2) 나노섬유 멤브레인, 3) 환경 기능성 소재 합성에 관심을 갖고 있으며,  
