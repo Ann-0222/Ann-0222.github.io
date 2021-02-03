@@ -2,26 +2,31 @@
     {
         "id": 0,
         "image": "images/researches/research_0.png",
+        "thumbnail": "images/researches/thumbnail/research_0.png",
         "url": "research/data0/"
     },
     {
         "id": 1,
         "image": "images/researches/research_1.png",
+        "thumbnail": "images/researches/thumbnail/research_1.png",
         "url": "research/data1/"
     },
     {
         "id": 2,
         "image": "images/researches/research_2.png",
+        "thumbnail": "images/researches/thumbnail/research_2.png",
         "url": "research/data2/"
     },
     {
         "id": 3,
         "image": "images/researches/research_3.png",
+        "thumbnail": "images/researches/thumbnail/research_3.png",
         "url": "research/data3/"
     },
     {
         "id": 4,
         "image": "images/researches/research_4.png",
+        "thumbnail": "images/researches/thumbnail/research_4.png",
         "url": "research/data4/"
     }
 ]
