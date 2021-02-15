@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication on 강원대학교 물환경·고도수처리 연구실</title>
-    <link>https://ann-0222.github.io/publication/</link>
+    <link>http://advwater.kangwon.ac.kr/publication/</link>
     <description>Recent content in Publication on 강원대학교 물환경·고도수처리 연구실</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language><atom:link href="https://ann-0222.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko</language><atom:link href="http://advwater.kangwon.ac.kr/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Domestic Journal, KCI</title>
-      <link>https://ann-0222.github.io/publication/kci_journals/</link>
+      <link>http://advwater.kangwon.ac.kr/publication/kci_journals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ann-0222.github.io/publication/kci_journals/</guid>
+      <guid>http://advwater.kangwon.ac.kr/publication/kci_journals/</guid>
       <description>⁣15. 양보람, 박정안, 남혜림, 정성목, 최재우, 박희등, 이상협*. UVC-LED기반 고도산화공정을 이용한 수중 마이크로시스틴-LR, 이취미 물질, 자연유기물 분해. 대한환경공학회지. 39(5): 246-254, 2017
 ⁣14. 남아름, 박정안, 도태구, 최재우, 최웅수, 김경남, 윤성택, 이상협*. 아크릴계 이온교환섬유를 이용한 수중 크롬(VI)제거. 대한환경공학회지. 39(3): 112-117, 2017
 ⁣13. 박정안, 강진규, 김재현, 김성배*. 토양 서식 미생물을 이용한 가축사체 매몰지 토양유래 용존 유기물 분해. 대한환경공학회지. 35(12): 861-866, 2013
@@ -20,10 +20,10 @@
     
     <item>
       <title>Patent</title>
-      <link>https://ann-0222.github.io/publication/patent/</link>
+      <link>http://advwater.kangwon.ac.kr/publication/patent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ann-0222.github.io/publication/patent/</guid>
+      <guid>http://advwater.kangwon.ac.kr/publication/patent/</guid>
       <description>⁣1. “수처리용 흡착제 및 이의 제조방법“, 등록번호 10-2010135
 ⁣2. “수처리용 분리막 및 이의 제조방법”, 등록번호 10-1971797
 ⁣3. “수밀성이 향상된 압전분리막 에셈블리”, 등록번호 10-2036995
@@ -37,10 +37,10 @@
     
     <item>
       <title>SCI(E) Journals</title>
-      <link>https://ann-0222.github.io/publication/sci_journals/</link>
+      <link>http://advwater.kangwon.ac.kr/publication/sci_journals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ann-0222.github.io/publication/sci_journals/</guid>
+      <guid>http://advwater.kangwon.ac.kr/publication/sci_journals/</guid>
       <description>⁣63. Jang H, Kang JK, Park JA, Lee SC, Kim SB*, Metal-organic framework MIL-100(Fe) for dye removal in aqueoussolutions: Prediction by artificial neural network and response surfacemethodology modeling. Environmental Pollution 267, 115583, 2020
 ⁣62. Han C, Park HD, Kim SB, Yargeau, V, Choi JW, Lee SH, Park JA*, Oxidation of tetracycline and oxytetracycline for the photo-Fenton process: their transformation products and toxicity assessment. Water Res. 172, 115514, 2020
 ⁣61. Park JA , Kang JK, Jung SM, Choi JW, Lee SH, Yargeau, V, Kim SB, Investigating Microcystin-LR adsorption mechanisms on mesoporous carbon, mesoporous silica, and their amino-functionalized form: Surface chemistry, pore structures, and molecular characteristics.</description>
