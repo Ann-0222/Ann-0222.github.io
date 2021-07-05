@@ -1,0 +1,107 @@
+{{ define "main" }}
+<main id="main">
+
+	<div class="container">
+		<div class="row topspace member">
+			<div class="col-sm-12">
+                {{ .Params.file }}
+                {{ $data := .Resources.GetMatch .Params.file | transform.Unmarshal }} 
+
+                {{ if eq .Params.type "professor" }}
+
+                    {{ range $index, $area := $data }}
+                        <!-- Article main content -->
+                        <article class="maincontent row">
+                            <div class="col-sm-4 text-right">
+                                <img class="img-thumbnail mx-auto d-block" src="{{ .image }}" alt="professor">
+                            </div>
+                            
+                            <div class="col-sm-6">
+                                <div class="text-left member-description">
+                                    <a href="mailto:{{ .email }}">{{ .title }}</a>
+                                    {{ .name }}({{ .en_name }})<br>
+                                    {{ .description }}<br>
+                                    <br>
+                                    {{ if and .office .phone .email }}
+                                    Office: {{ .office }}<br>
+                                    Tel: {{ .phone }}<br>
+                                    Email: {{ .email }}<br>
+                                    {{ end }}
+                                </div>
+                            </div>
+
+                            {{ range $data := sort .bio "weight" }}
+
+                                <h2 class="section-title">
+                                    <span>{{ $data.title }}</span>
+                                </h2>
+                                
+                                {{ range $item := $data.item }}
+                                    {{ $item }}<br>
+                                {{ end }}
+                                <br>
+                            {{ end }}
+                        </article>
+                        <!-- /Article -->
+
+                    {{ end }}
+
+                {{ else }}
+                    
+                    <h2 class="section-title"><span>Graduate students</span></h2>
+                    
+                    {{ range $index, $area := index $data "graduate_students" }}
+                        <!-- Article main content -->
+                        <article class="maincontent row">
+                            <div class="col-sm-4 text-right">
+                                <img class="img-thumbnail mx-auto d-block" src="{{ .image }}" alt="professor">
+                            </div>
+                            
+                            <div class="col-sm-6">
+                                <div class="text-left member-description">
+                                    <a href="mailto:{{ .email }}">{{ .title }}</a>
+                                    {{ .name }}({{ .en_name }})<br>
+                                    {{ .description }}<br>
+                                </div>
+                            </div>
+
+                        </article>
+                        <!-- /Article -->
+
+                    {{ end }}
+                    
+                    <br>
+
+                    <h2 class="section-title"><span>Undergraduate students</span></h2>
+
+                    {{ range $index, $area := index $data "undergraduate_students" }}
+                        <!-- Article main content -->
+                        <article class="maincontent row">
+                            <div class="col-sm-4 text-right">
+                                <img class="img-thumbnail mx-auto d-block" src="{{ .image }}" alt="professor">
+                            </div>
+                            
+                            <div class="col-sm-6">
+                                <div class="text-left member-description">
+                                    <a href="mailto:{{ .email }}">{{ .title }}</a>
+                                    {{ .name }}({{ .en_name }})<br>
+                                    {{ .description }}<br>
+                                </div>
+                            </div>
+
+                        </article>
+                        <!-- /Article -->
+
+                    {{ end }}
+            
+                {{ end }}
+
+
+			</div>
+		</div>
+
+	</div>	<!-- /container -->
+
+</main>
+{{ end }}
+
