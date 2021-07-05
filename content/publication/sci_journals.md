@@ -3,19 +3,6 @@ title = "SCI(E) Journals"
 weight = 0
 +++
 
-&#8291;66. Elkayar K, **Park JA**, Pineda M, Westlund P. Yargeau V*, Passive sampling and in vitro assays for
-the monitoring of antiandrogens in water and sediments of a river impacted by wastewater discharge.
-Science of the Total Environment. 2021
-
-&#8291;65. Bong T, Kang JK, Yargeau V, Nam HL, Lee SH, Choi JW, Kim SB, **Park JA***, Geosmin and 2-
-methylisoborneol adsorption using different carbon materials: Isotherm, kinetic, multiple linear
-regression, and deep neural network modeling using a real drinking water source. Journal of Cleaner
-Production 314, 127967, 2021
-
-&#8291;64. Jang H, Kang JK, Lee SC, **Park JA**, Kim SB*, Analysis of diclofenac removal by metal-organic
-framework MIL-100(Fe) using multi-parameter experiments and artificial neural network modeling.
-Journal of the Taiwan Institute of Chemical Engineers 121, 257-267, 2021
-
 &#8291;63. Jang H, Kang JK, **Park JA**, Lee SC, Kim SB*, Metal-organic framework MIL-100(Fe) for dye removal in aqueoussolutions: Prediction by artificial neural network and response surfacemethodology modeling. Environmental Pollution 267, 115583, 2020
 
 
