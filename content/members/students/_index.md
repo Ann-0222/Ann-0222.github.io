@@ -1,6 +1,6 @@
 +++
 title = "Members"
-type = "members"
+type = "students"
 file = "data.json"
 weight = 2
 +++
