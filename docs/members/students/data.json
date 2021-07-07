@@ -7,9 +7,7 @@
             "en_name": "Yoon, So Yeong",
             "image": "../../images/yoonsoyeong.png",
             "bio": []
-        }
-    ],
-    "undergraduate_students": [
+        },
         {
             "id": 1,
             "title": "BS/MS student",
@@ -17,7 +15,9 @@
             "en_name": "Ko, Min gi",
             "image": "../../images/komingi.png",
             "bio": []
-        },
+        }
+    ],
+    "undergraduate_students": [
         {
             "id": 2,
             "title": "",
