@@ -5,7 +5,7 @@
             "title": "PhD student",
             "name": "윤소영",
             "en_name": "Yoon, So Yeong",
-            "image": "../../images/yoonsoyeong.png",
+            "image": "../../images/member/yoonsoyeong.png",
             "bio": []
         },
         {
@@ -13,7 +13,7 @@
             "title": "BS/MS student",
             "name": "고민기",
             "en_name": "Ko, Min gi",
-            "image": "../../images/komingi.png",
+            "image": "../../images/member/komingi.png",
             "bio": []
         }
     ],
@@ -23,7 +23,15 @@
             "title": "",
             "name": "이주영",
             "en_name": "Lee, Joo Young",
-            "image": "../../images/leejooyoung.png",
+            "image": "../../images/member/leejooyoung.png",
+            "bio": []
+        },
+        {
+            "id": 3,
+            "title": "",
+            "name": "장태순",
+            "en_name": "Jang, Tae Soon",
+            "image": "../../images/member/jangtaesoon.png",
             "bio": []
         }
     ]   

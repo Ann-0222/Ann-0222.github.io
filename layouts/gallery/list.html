@@ -1,0 +1,31 @@
+{{ define "main" }}
+<main id="main">
+
+	<div class="container">
+		<div class="row topspace member">
+			<div class="col-sm-12">
+                {{ $data := .Resources.GetMatch .Params.file | transform.Unmarshal }} 
+
+                    <h2 class="section-title"><span>Gallery</span></h2>
+                    
+                    {{ range $index, $area := index $data "items" }}
+                        <article class="maincontent row">
+                            <div class="col-sm-12 text-center">
+                                {{ range $area.images }}
+                                <img class="img-thumbnail mx-auto d-block" src="{{ . }}" alt="{{ $area.description }}">
+                                {{ end }}
+                                <p style="text-align: center; padding-top: 10px;"><strong>{{ $area.description }}</strong></p>
+                            </div>
+                        </article>
+
+                    {{ end }}
+            
+
+			</div>
+		</div>
+
+	</div>	<!-- /container -->
+
+</main>
+{{ end }}
+

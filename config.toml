@@ -50,6 +50,10 @@ publishDir = "docs"
     name = "publication"
     url = "/publication/"
     weight = 5
+[[menu.main]]
+    name = "gallery"
+    url = "/gallery/"
+    weight = 6
 
 [params.disqus]
     site = ""
