@@ -6,7 +6,8 @@
             "name": "윤소영",
             "en_name": "Yoon, So Yeong",
             "image": "../../images/member/yoonsoyeong.png",
-            "bio": []
+            "bio": [],
+            "research_topic": "Adsorption of antimicrobial agents on microplastics and their toxicity assessment/Monitoring microplastics in freshwater"
         },
         {
             "id": 1,
@@ -14,18 +15,20 @@
             "name": "고민기",
             "en_name": "Ko, Min gi",
             "image": "../../images/member/komingi.png",
-            "bio": []
-        }
-    ],
-    "undergraduate_students": [
+            "bio": [],
+            "research_topic": "Synthesis functionalized sponge material for the removal of pharmaceuticals and microplastics in aqueous solution"
+        },
         {
             "id": 2,
-            "title": "",
+            "title": "MS student",
             "name": "이주영",
             "en_name": "Lee, Joo Young",
             "image": "../../images/member/leejooyoung.png",
-            "bio": []
-        },
+            "bio": [],
+            "research_topic": "Photocatalytic degradation of pharmaceuticals and their degradation pathway"
+        }
+    ],
+    "undergraduate_students": [
         {
             "id": 3,
             "title": "",

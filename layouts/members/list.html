@@ -26,6 +26,7 @@
                                     Tel: {{ .phone }}<br>
                                     Email: {{ .email }}<br>
                                     {{ end }}
+                                    <a href="{{ .link }}">Google scholar link</a>
                                 </div>
                             </div>
 
@@ -61,6 +62,7 @@
                                     <a href="mailto:{{ .email }}">{{ .title }}</a>
                                     {{ .name }}({{ .en_name }})<br>
                                     {{ .description }}<br>
+                                    <p><span class="text-warning">Research topic </span>{{ .research_topic }}</p><br>
                                 </div>
                             </div>
 

@@ -3,6 +3,10 @@ title = "SCI(E) Journals"
 weight = 0
 +++
 
+&#8291;67. Lee SC, Kang JK, Jang HY, **Park JA**, Kim SB*, Multi-parameter experiments and modeling for nitrate
+sorption to quaternary ammonium-functionalized poly(amidoamine) dendrimers in aqueous solutions,
+International Journal of Environmental Science and Technology, 2022
+
 &#8291;66. Elkayar K 1 , **Park JA 1** , Pineda M, Westlund P. Yargeau V*, Passive sampling and in vitro assays to monitor antiandrogens in a river affected by wastewater discharge. Science of the Total Environment 804, 150067, 2022.
 
 &#8291;65. Bong T, Kang JK, Yargeau V, Nam HL, Lee SH, Choi JW, Kim SB, **Park JA***, Geosmin and 2-
