@@ -16,3 +16,4 @@ $ hugo server
 ```
 $ hugo
 ```
+
