@@ -3,6 +3,10 @@ title = "SCI(E) Journals"
 weight = 0
 +++
 
+&#8291;69. **Park JA**, Pineda M, Peyot ML, Yargeau V*, Degradation of oxytetracycline and doxycycline by ozonation: Degradation pathways and toxicity assessment, Science of The Total Environment, 856, 159076, 2023.
+
+&#8291;68. Kim JH, Jang HY, Kim SB, Choi JW, **Park JA***, Oxytetracycline degradation by heterogeneous photo-Fenton-like process using h@MIL-100(Fe) with LED visible light, Water, Air, & Soil Pollution, 233:480, 2022.
+
 &#8291;67. Lee SC, Kang JK, Jang HY, **Park JA**, Kim SB*, Multi-parameter experiments and modeling for nitrate
 sorption to quaternary ammonium-functionalized poly(amidoamine) dendrimers in aqueous solutions,
 International Journal of Environmental Science and Technology, 2022

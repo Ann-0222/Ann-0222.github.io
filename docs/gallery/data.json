@@ -2,6 +2,24 @@
     "items": [
         {
             "images": [
+                "../../images/gallery/2022-11-jeju-conf.png"
+            ],
+            "description": "[2022 대한환경공학회, 제주]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2022-09-conf.png"
+            ],
+            "description": "[2022.09 한국물환경학회∙대한상하수도학회 공동학술발표회, 부산]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2022-08-graduation.png"
+            ],
+            "description": "[2022.08 고민기, 이주영 학사졸업(석사입학)]"
+        },
+        {
+            "images": [
                 "../../images/gallery/2021-jeju1.png",
                 "../../images/gallery/2021-jeju2.png"
             ],
