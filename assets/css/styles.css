@@ -224,12 +224,13 @@ a:hover {
 
 **********************************************************************/
 #head {
-  background-color: #f4f4f4;
-  background-position: top center;
+  position: relative;
+  /* background-color: #f4f4f4; */
+  /* background-position: top center; */
   background-size: cover;
-  color: #7C7C7C;
-  padding: 30px 0 35px 0;
-  height: 500px;
+  /* color: #7C7C7C; */
+  /* padding: 30px 0 35px 0; */
+  /* height: 500px; */
 }
 
 #head img {
@@ -257,6 +258,7 @@ a:hover {
   font-family: 'Do Hyeon', sans-serif;;
   font-size: 49px;
   font-size: 3.0625rem;
+  text-shadow: 2px 0 black, 0 2px black, 2px 0 black, 0 2px black;
 }
 #head .title a {
   text-decoration: none;
@@ -267,6 +269,7 @@ a:hover {
   font-size: 25px;
   letter-spacing: 0.13mm;
   color: #ffffffd5;
+  text-shadow: 1px 0 black, 0 1px black, 1px 0 black, 0 1px black;
 }
 #head .tagline {
   display: block;
@@ -563,7 +566,7 @@ img {
   position: absolute;
   height: 4px;
   top: .53em;
-  width: 400%;
+  width: 600%;
   border-bottom: 1px solid #ccc;
   border-top: 1px solid #ccc;
 }
@@ -853,14 +856,12 @@ footer.entry-meta .meta-in {
 }
 
 .member-description {
-  font-size: 14px;
-  font-size: 0.9rem;
+  font-size: 16px;
   font-family: 'Nanum Gothic', sans-serif;
 }
 
 .member {
-  font-size: 10px;
-  font-size: 0.8rem;
+  font-size: 18px;
   margin-bottom: 50px;
 }
 
@@ -873,6 +874,71 @@ footer.entry-meta .meta-in {
 }
 
 .img-thumbnail {
-  width: 35%;
+  width: 110px;
+  object-fit: cover;
+  object-position: 100% 0;
+  height: 150px;
   margin-right: 0;
 }
+
+.img-gallery {
+  width: 95%;
+  margin-right: 0;
+}
+
+.slider {
+  overflow: hidden;
+  width: 100vw;
+  /* height: 100vh; */
+  position: relative;
+ }
+  
+ .slider .slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  animation: slider 36s infinite;
+ }
+  
+ .slider .slide:nth-child(0) {
+  animation-delay: 0s;
+ }
+ 
+ .slider .slide:nth-child(1) {
+  animation-delay: -6s;
+ }
+ 
+ .slider .slide:nth-child(2) {
+  animation-delay: -12s;
+ }
+ 
+ .slider .slide:nth-child(3) {
+  animation-delay: -18s;
+ }
+
+ .slider .slide:nth-child(4) {
+  animation-delay: -24s;
+}
+.slider .slide:nth-child(5) {
+  animation-delay: -30s;
+}
+
+ 
+ @keyframes slider {
+  0%, 10%, 100% {
+    transform: translateX(0);
+    animation-timing-function: ease;
+  }
+  20% {
+    transform: translateX(-100%);
+    animation-timing-function: step-end;
+  }
+  90% {
+    transform: translateX(100%);
+    animation-timing-function: ease;
+  }
+ }

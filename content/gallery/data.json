@@ -2,6 +2,12 @@
     "items": [
         {
             "images": [
+                "../../images/gallery/2023-02-graduation.png"
+            ],
+            "description": "[2023.02 장태순 학사졸업(석사입학) with 재범, 병헌, 수지]"
+        },
+        {
+            "images": [
                 "../../images/gallery/2022-11-jeju-conf.png"
             ],
             "description": "[2022 대한환경공학회, 제주]"

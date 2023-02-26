@@ -8,18 +8,20 @@
 
                     <h2 class="section-title"><span>Gallery</span></h2>
                     
-                    {{ range $index, $area := index $data "items" }}
-                        <article class="maincontent row">
-                            <div class="col-sm-12 text-center">
-                                {{ range $area.images }}
-                                <img class="img-thumbnail mx-auto d-block" src="{{ . }}" alt="{{ $area.description }}">
-                                {{ end }}
-                                <p style="text-align: center; padding-top: 10px;"><strong>{{ $area.description }}</strong></p>
-                            </div>
-                        </article>
+            </div>
 
-                    {{ end }}
-            
+            <article class="maincontent">
+                <div class="container row">
+                {{ range $index, $area := index $data "items" }}        
+                    <div class="col-sm-12 text-center">
+                        {{ range $area.images }}
+                        <img style="width: {{ div 90 (len $area.images)}}%" class="img-gallery mx-auto d-block" src="{{ . }}" alt="{{ $area.description }}">
+                        {{ end }}
+                        <p style="text-align: center; padding-top: 10px;"><strong>{{ $area.description }}</strong></p>
+                    </div>
+                {{ end }}
+                </div>
+            </article>
 
 			</div>
 		</div>

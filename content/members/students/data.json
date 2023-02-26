@@ -38,6 +38,14 @@
         }
     ],
     "undergraduate_students": [
-        
+        {
+            "id": 0,
+            "title": "Undergraduate student",
+            "name": "최진혁",
+            "en_name": "Choi, Jin Hyuk",
+            "image": "../../images/member/choijinhyuk.png",
+            "bio": [],
+            "research_topic": ""
+        }
     ]   
 }

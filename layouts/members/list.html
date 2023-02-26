@@ -10,37 +10,45 @@
 
                     {{ range $index, $area := $data }}
                         <!-- Article main content -->
-                        <article class="maincontent row">
-                            <div class="col-sm-4 text-right">
-                                <img class="img-thumbnail mx-auto d-block" src="{{ .image }}" alt="professor">
-                            </div>
-                            
-                            <div class="col-sm-6">
-                                <div class="text-left member-description">
-                                    <a href="mailto:{{ .email }}">{{ .title }}</a>
-                                    {{ .name }}({{ .en_name }})<br>
-                                    {{ .description }}<br>
-                                    <br>
-                                    {{ if and .office .phone .email }}
-                                    Office: {{ .office }}<br>
-                                    Tel: {{ .phone }}<br>
-                                    Email: {{ .email }}<br>
-                                    {{ end }}
-                                    <a href="{{ .link }}">Google scholar link</a>
+                        <article class="maincontent">
+                            <div class="row">
+                                <div class="col-sm-4 text-right">
+                                    <img class="img-thumbnail mx-auto d-block" src="{{ .image }}" alt="professor">
+                                </div>
+                                
+                                <div class="col-sm-6">
+                                    <div style="margin-bottom: 15px;" class="text-left member-description">
+                                        <a href="mailto:{{ .email }}">{{ .title }}</a>
+                                        {{ .name }}({{ .en_name }})<br style="margin-bottom: 5px">
+                                        {{ .description }}<br style="margin-bottom: 5px">
+                                        <br>
+                                        {{ if and .office .phone .email }}
+                                        Office: {{ .office }}<br style="margin-bottom: 5px">
+                                        Tel: {{ .phone }}<br style="margin-bottom: 5px">
+                                        Email: {{ .email }}<br style="margin-bottom: 5px">
+                                        {{ end }}
+                                        <a href="{{ .link }}">Google scholar link</a>
+                                    </div>
                                 </div>
                             </div>
-
-                            {{ range $data := sort .bio "weight" }}
-
-                                <h2 class="section-title">
-                                    <span>{{ $data.title }}</span>
-                                </h2>
-                                
-                                {{ range $item := $data.item }}
-                                    {{ $item }}<br>
+                            <div class="row">
+                                {{ range $data := sort .bio "weight" }}
+                                <div class="col-sm-12">
+                                    <h2 class="section-title">
+                                        <span>{{ $data.title }}</span>
+                                    </h2>
+                                    
+                                    {{ range $item := $data.item }}
+                                    <div class="row">
+                                        <div class="col-sm-2"></div>
+                                        <div class="col-sm-8"><div class="member-description">{{ $item }}</div><br/></div>
+                                        <div class="col-sm-2"></div>
+                                    </div>
+                                    {{ end }}
+                                    <br>
+                                </div>
                                 {{ end }}
-                                <br>
-                            {{ end }}
+                            </div>
                         </article>
                         <!-- /Article -->
 
@@ -52,13 +60,13 @@
                     
                     {{ range $index, $area := index $data "graduate_students" }}
                         <!-- Article main content -->
-                        <article class="maincontent row">
-                            <div class="col-sm-4 text-right">
-                                <img class="img-thumbnail mx-auto d-block" src="{{ .image }}" alt="professor">
+                        <article class="maincontent row" style="margin-bottom: 10px">
+                            <div class="col-sm-3 text-right">
+                                <img class="img-thumbnail mx-auto d-block" src="{{ .image }}" alt="graduate students">
                             </div>
                             
-                            <div class="col-sm-6">
-                                <div class="text-left member-description">
+                            <div class="col-sm-9">
+                                <div class="member-description">
                                     <a href="mailto:{{ .email }}">{{ .title }}</a>
                                     {{ .name }}({{ .en_name }})<br>
                                     {{ .description }}<br>
@@ -77,19 +85,20 @@
 
                     {{ range $index, $area := index $data "undergraduate_students" }}
                         <!-- Article main content -->
-                        <article class="maincontent row">
-                            <div class="col-sm-4 text-right">
-                                <img class="img-thumbnail mx-auto d-block" src="{{ .image }}" alt="professor">
-                            </div>
-                            
-                            <div class="col-sm-6">
-                                <div class="text-left member-description">
-                                    <a href="mailto:{{ .email }}">{{ .title }}</a>
-                                    {{ .name }}({{ .en_name }})<br>
-                                    {{ .description }}<br>
+                        <article class="maincontent">
+                            <div class="row">
+                                <div class="col-sm-3 text-right">
+                                    <img class="img-thumbnail mx-auto d-block" src="{{ .image }}" alt="undergraduate students">
+                                </div>
+                                
+                                <div class="col-sm-9">
+                                    <div class="member-description">
+                                        <a href="mailto:{{ .email }}">{{ .title }}</a>
+                                        {{ .name }}({{ .en_name }})<br>
+                                        {{ .description }}<br>
+                                    </div>
                                 </div>
                             </div>
-
                         </article>
                         <!-- /Article -->
 
