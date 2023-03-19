@@ -12,10 +12,10 @@ publishDir = "docs"
     address = "강원대학교 춘천캠퍼스 공학5관 410호 (교수오피스), 401호 (연구실오피스)"
     year = 2023
     banners = ["images/bg_image.jpg", 
-               "images/bg_image0.png",
+               "images/bg_image0.jpg",
                "images/bg_image1.png", 
-               "images/bg_image2.png", 
-               "images/bg_image3.png",
+               "images/bg_image2.jpg", 
+               "images/bg_image3.jpg",
                "images/bg_image4.png"]
     favicon = "images/gt_favicon.png"
     DateForm = "Febrary 26, 2023"
