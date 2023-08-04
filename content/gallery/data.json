@@ -2,6 +2,12 @@
     "items": [
         {
             "images": [
+                "../../images/gallery/2023-07-mt.png"
+            ],
+            "description": "[2023.07 연구실 엠티 with 진혁, 정민, 재범, 병헌, 수지]"
+        },
+        {
+            "images": [
                 "../../images/gallery/2023-02-graduation.png"
             ],
             "description": "[2023.02 장태순 학사졸업(석사입학) with 재범, 병헌, 수지]"

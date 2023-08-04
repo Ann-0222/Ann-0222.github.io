@@ -3,6 +3,15 @@ title = "SCI(E) Journals"
 weight = 0
 +++
 
+&#8291;71. Yoon S, Lee J, Ko M, Jang T, Lim K, Kim HO, Ha SJ, **Park JA***, Adsorption behavior of
+triclosan on microplastics and their combined acute toxicity to D. magna. Science of The
+Total Environment, 880, 163290, 2023
+
+&#8291;70. Yoo SH, Lee SC, Ko M, Yoon S, Lee J, **Park JA**, Kim SB*, Adsorption of Hg(II) on
+polyethyleneimine-functionalized carboxymethylcellulose beads: Characterization, toxicity
+tests, and adsorption experiments. International Journal of Biological Macromolecules, 241,
+124516, 2023
+
 &#8291;69. **Park JA**, Pineda M, Peyot ML, Yargeau V*, Degradation of oxytetracycline and doxycycline by ozonation: Degradation pathways and toxicity assessment, Science of The Total Environment, 856, 159076, 2023.
 
 &#8291;68. Kim JH, Jang HY, Kim SB, Choi JW, **Park JA***, Oxytetracycline degradation by heterogeneous photo-Fenton-like process using h@MIL-100(Fe) with LED visible light, Water, Air, & Soil Pollution, 233:480, 2022.
