@@ -5,6 +5,7 @@
     <link>https://advwater.kangwon.ac.kr/members/</link>
     <description>Recent content on 강원대학교 물환경·고도수처리 연구실</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language><atom:link href="https://advwater.kangwon.ac.kr/members/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko</language>
+    <atom:link href="https://advwater.kangwon.ac.kr/members/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

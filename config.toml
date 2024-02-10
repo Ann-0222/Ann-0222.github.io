@@ -46,19 +46,20 @@ publishDir = "docs"
     name = "students"
     url = "/members/students/"
     parent = "members"
-    weight = 2
+    weight = 3
+
 [[menu.main]]
     name = "research"
     url = "/research/"
-    weight = 4
+    weight = 5
 [[menu.main]]
     name = "publication"
     url = "/publication/"
-    weight = 5
+    weight = 6
 [[menu.main]]
     name = "gallery"
     url = "/gallery/"
-    weight = 6
+    weight = 7
 
 [params.disqus]
     site = ""
