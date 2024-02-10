@@ -1,0 +1,13 @@
+{
+    "alumni": [
+        {
+            "id": 0,
+            "title": "MS's degree",
+            "name": "고민기",
+            "en_name": "Ko, Min gi",
+            "image": "../../images/member/komingi.png",
+            "bio": [],
+            "research_topic": "Dissertation Recyclable graphene oxide/chitosan/genepin sponges for the removal of diclofenac, triclosan, and microplastics"
+        }    
+    ]
+}

@@ -54,7 +54,7 @@
 
                     {{ end }}
 
-                {{ else }}
+                {{ else if eq .Params.type "students" }}
                     
                     <h2 class="section-title"><span>Graduate students</span></h2>
                     
@@ -103,6 +103,8 @@
                         <!-- /Article -->
 
                     {{ end }}
+
+                {{ else if eq .Params.type "alumni" }}
 
                     <h2 class="section-title"><span>Alumni</span></h2>
 

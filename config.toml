@@ -47,7 +47,11 @@ publishDir = "docs"
     url = "/members/students/"
     parent = "members"
     weight = 3
-
+[[menu.main]]
+    name = "alumni"
+    url = "/members/alumni/"
+    parent = "members"
+    weight = 4
 [[menu.main]]
     name = "research"
     url = "/research/"
