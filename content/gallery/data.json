@@ -2,6 +2,30 @@
     "items": [
         {
             "images": [
+                "../../images/gallery/2023-11.png"
+            ],
+            "description": "[2023.11 환경공학전공 학부졸업논문발표회]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2023-11(2).png"
+            ],
+            "description": "[2023.11 대한환경공학회]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2023-10.png"
+            ],
+            "description": "[2023.10 IWA-Aspire conference & exhibition]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2023-09.png"
+            ],
+            "description": "[2023.09 Wiset 인터뷰 단체사진]"
+        },
+        {
+            "images": [
                 "../../images/gallery/2023-07-mt.png"
             ],
             "description": "[2023.07 연구실 엠티 with 진혁, 정민, 재범, 병헌, 수지]"

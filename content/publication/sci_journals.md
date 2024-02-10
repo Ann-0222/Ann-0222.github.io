@@ -3,6 +3,14 @@ title = "SCI(E) Journals"
 weight = 0
 +++
 
+&#8291;73. Lee J, Jo SJ, Yoon S, Ko M, Jang T, Kim HK, **Park JA***, Coupled adsorption-photocatalysis
+process for the removal of diclofenac using magnetite/reduced graphene oxide nanocomposite.
+Chemosphere, 349, 140788, 2024
+
+&#8291;72. Jang T, Hong E, KiM JH, Ha S, Choi JW, **Park JA***, Water quality seasonal variation
+assessment of the Gongji and Yaksa streams, Chuncheon, South Korea. Environmnetal Monitoring
+and Assessment, 195, 1465, 2023
+
 &#8291;71. Yoon S, Lee J, Ko M, Jang T, Lim K, Kim HO, Ha SJ, **Park JA***, Adsorption behavior of
 triclosan on microplastics and their combined acute toxicity to D. magna. Science of The
 Total Environment, 880, 163290, 2023
