@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication on 강원대학교 물환경·고도수처리 연구실</title>
-    <link>https://advwater.kangwon.ac.kr/publication/</link>
+    <link>http://localhost:1313/publication/</link>
     <description>Recent content in Publication on 강원대학교 물환경·고도수처리 연구실</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <atom:link href="https://advwater.kangwon.ac.kr/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Domestic Journal, KCI</title>
-      <link>https://advwater.kangwon.ac.kr/publication/kci_journals/</link>
+      <link>http://localhost:1313/publication/kci_journals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/publication/kci_journals/</guid>
+      <guid>http://localhost:1313/publication/kci_journals/</guid>
       <description>⁣16. 이주영, 박정안*. 수중 미세플라스틱의 레보플록사신 흡착특성 비교평가. 대한환경공학회지. 44(6):209-216, 2022.&#xA;⁣15. 양보람, 박정안, 남혜림, 정성목, 최재우, 박희등, 이상협*. UVC-LED기반 고도산화공정을 이용한 수중 마이크로시스틴-LR, 이취미 물질, 자연유기물 분해. 대한환경공학회지. 39(5): 246-254, 2017&#xA;⁣14. 남아름, 박정안, 도태구, 최재우, 최웅수, 김경남, 윤성택, 이상협*. 아크릴계 이온교환섬유를 이용한 수중 크롬(VI)제거. 대한환경공학회지. 39(3): 112-117, 2017&#xA;⁣13. 박정안, 강진규, 김재현, 김성배*. 토양 서식 미생물을 이용한 가축사체 매몰지 토양유래 용존 유기물 분해. 대한환경공학회지. 35(12): 861-866, 2013&#xA;⁣12. 최낙철, 최은주, 김봉주, 박정안, 김성배, 박천영*.</description>
     </item>
     <item>
       <title>Patent</title>
-      <link>https://advwater.kangwon.ac.kr/publication/patent/</link>
+      <link>http://localhost:1313/publication/patent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/publication/patent/</guid>
+      <guid>http://localhost:1313/publication/patent/</guid>
       <description>⁣1. “수처리용 흡착제 및 이의 제조방법“, 등록번호 10-2010135&#xA;⁣2. “수처리용 분리막 및 이의 제조방법”, 등록번호 10-1971797&#xA;⁣3. “수밀성이 향상된 압전분리막 에셈블리”, 등록번호 10-2036995&#xA;⁣4. “유체의 흐름을 제어하는 조류제어장치”, 등록번호 10-2022192&#xA;⁣5. “미세흡착제 유실방지 장치”, 등록번호 10-2082693&#xA;⁣6. “유무기 하이브리드 흡착제와 광촉매를 활용한 폐수처리와 흡착제 재생 방법”, 등록번호 10-2038771&#xA;⁣7. “수처리용 분리막과 이의 제조방법”, 등록번호 10-2064074&#xA;⁣8. “마이크로시스틴, 2-MIB 및 지오스민 제거용 활성탄 및 이를 이용한 제거방법”, 등록번호 10-1777786&#xA;⁣9. “마이크로시스틴, 2-MIB 및 지오스민 제거용 활성탄 및 이를 이용한 제거방법”, 등록번호 10-1777788</description>
     </item>
     <item>
       <title>SCI(E) Journals</title>
-      <link>https://advwater.kangwon.ac.kr/publication/sci_journals/</link>
+      <link>http://localhost:1313/publication/sci_journals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/publication/sci_journals/</guid>
-      <description>⁣73. Lee J, Jo SJ, Yoon S, Ko M, Jang T, Kim HK, Park JA*, Coupled adsorption-photocatalysis process for the removal of diclofenac using magnetite/reduced graphene oxide nanocomposite. Chemosphere, 349, 140788, 2024&#xA;⁣72. Jang T, Hong E, KiM JH, Ha S, Choi JW, Park JA*, Water quality seasonal variation assessment of the Gongji and Yaksa streams, Chuncheon, South Korea. Environmnetal Monitoring and Assessment, 195, 1465, 2023&#xA;⁣71. Yoon S, Lee J, Ko M, Jang T, Lim K, Kim HO, Ha SJ, Park JA*, Adsorption behavior of triclosan on microplastics and their combined acute toxicity to D.</description>
+      <guid>http://localhost:1313/publication/sci_journals/</guid>
+      <description>⁣76. Lee SC, Park JA, Kang JK, Kim SB*. Deep Learning Modeling and Column Experiments for Cu (Ii) Adsorption on Amino-Functionalized Carboxymethylcellulose Beads in Aqueous Solutions. Journal of Water Process Engineering, 63, 105465, 2024&#xA;⁣75. Choi J, Kim H, Ahn YR, Kim M, Yu S, Kim N, Lim S, Park JA, Kim HO*, Recent advances in microbial and enzymatic engineering for the biodegradation of micro-and nanoplastics. RSC advances, 14, 9943-9966, 2024</description>
     </item>
   </channel>
 </rss>

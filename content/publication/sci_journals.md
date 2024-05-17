@@ -3,6 +3,12 @@ title = "SCI(E) Journals"
 weight = 0
 +++
 
+&#8291;76. Lee SC, **Park JA**, Kang JK, Kim SB*. Deep Learning Modeling and Column Experiments for Cu (Ii) Adsorption on Amino-Functionalized Carboxymethylcellulose Beads in Aqueous Solutions. Journal of Water Process Engineering, 63, 105465, 2024
+
+&#8291;75. Choi J, Kim H, Ahn YR, Kim M, Yu S, Kim N, Lim S, **Park JA**, Kim HO*, Recent advances in microbial and enzymatic engineering for the biodegradation of micro-and nanoplastics. RSC advances, 14, 9943-9966, 2024
+
+&#8291;74. Ko M, Jang T, Yoon S, Lee J, Choi JH, Choi JW, **Park JA***, Synthesis of recyclable and light-weight graphene oxide/chitosan/genipin sponges for the adsorption of diclofenac, triclosan, and microplastics. Chemosphere, 356, 141956, 2024
+
 &#8291;73. Lee J, Jo SJ, Yoon S, Ko M, Jang T, Kim HK, **Park JA***, Coupled adsorption-photocatalysis
 process for the removal of diclofenac using magnetite/reduced graphene oxide nanocomposite.
 Chemosphere, 349, 140788, 2024
