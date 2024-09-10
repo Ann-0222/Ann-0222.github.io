@@ -10,15 +10,6 @@
             "research_topic": "Monitoring microplastics in freshwater/Synthesis functionalized nanofibers"
         },
         {
-            "id": 2,
-            "title": "MS student",
-            "name": "이주영",
-            "en_name": "Lee, Joo Young",
-            "image": "../../images/member/leejooyoung.png",
-            "bio": [],
-            "research_topic": "Hybrid adsorption-photocatalysis reaction/Monitoring microplastics in freshwater"
-        },
-        {
             "id": 3,
             "title": "MS student",
             "name": "장태순",
@@ -38,16 +29,12 @@
         }
     ],
     "undergraduate_students": [
-    ],
-    "alumni": [
         {
             "id": 0,
-            "title": "MS's degree",
-            "name": "고민기",
-            "en_name": "Ko, Min gi",
-            "image": "../../images/member/komingi.png",
-            "bio": [],
-            "research_topic": "Dissertation Recyclable graphene oxide/chitosan/genepin sponges for the removal of diclofenac, triclosan, and microplastics"
-        }    
+            "title": "Undergraduate",
+            "name": "김나래",
+            "en_name": "Kim, Na Rae",
+            "image": "../../images/member/kimnarae.png"
+        }
     ]
 }

@@ -2,6 +2,18 @@
     "items": [
         {
             "images": [
+                "../../images/gallery/2024-09-graduation.png"
+            ],
+            "description": "[2024.9 이주영 석사 졸업 with 수지 학사 졸업]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2024-08-mt.png"
+            ],
+            "description": "[2024.8 연구실 여름 엠티]"
+        },
+        {
+            "images": [
                 "../../images/gallery/2024-03-academy.png"
             ],
             "description": "[2024.3 한국물환경/상하수도학회]"

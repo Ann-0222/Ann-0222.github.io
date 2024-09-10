@@ -3,6 +3,16 @@ title = "SCI(E) Journals"
 weight = 0
 +++
 
+&#8291;81. Yoon S, Lee J, Jang T, Choi JH, Ko M, Kim HO, Ha SJ, Lim K, **Park, JA***. Assessing the abundance, sources, and potential ecological risk assessment of microplastics using their particle and mass units in Uiam lake, South Korea. Environmental Pollution, 124654, 2024
+
+&#8291;80. Jeong SW, Oh BI, Chang ES, **Park JA***, Kim HK*, Lithiophilic Reduced Graphene Oxide/Carbonized Zeolite Imidazolate Framework-8 Composite Host for Stable Li Metal Anodes. Materials, 17, 4300, 2024
+
+&#8291;79. Choi JH, Shin J, Yoon S, Jang T, Lee J, Kim HK, **Park JA***. Bacteria and Cyanobacteria Inactivation Using UV-C, UV-C/H2O2, and Solar/H2O2 Processes: A Comparative Study. Water, 16(17), 2392, 2024
+
+&#8291;78. Kim YJ, Lee JS, **Park JA.**, Kim HO, Lim KS, Ha SJ. Biodegradation of low-density polyethylene by Acinetobacter guillouiae PL211 isolated from the waste treatment facility. Microbiology and Biotechnology Letters, 52(2) 189-194, 2024
+ 
+&#8291;77. Kim YJ, Kim YH, Shin YR, Choi SY, **Park JA**, Kim HO, Lim K, Ha SJ*. Efficient biodegradation of low-density polyethylene by Pseudomonas plecoglossicida SYp2123 was observed through FT-IR and FE-SEM analysis. Biotechnology and Bioprocess Engineering, 1-8, 2024
+
 &#8291;76. Lee SC, **Park JA**, Kang JK, Kim SB*. Deep Learning Modeling and Column Experiments for Cu (Ii) Adsorption on Amino-Functionalized Carboxymethylcellulose Beads in Aqueous Solutions. Journal of Water Process Engineering, 63, 105465, 2024
 
 &#8291;75. Choi J, Kim H, Ahn YR, Kim M, Yu S, Kim N, Lim S, **Park JA**, Kim HO*, Recent advances in microbial and enzymatic engineering for the biodegradation of micro-and nanoplastics. RSC advances, 14, 9943-9966, 2024

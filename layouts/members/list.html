@@ -121,6 +121,9 @@
                                         <a href="mailto:{{ .email }}">{{ .title }}</a>
                                         <p>{{ .name }}({{ .en_name }})</p>
                                         <p><span class="text-info">Thesis title </span>{{ .thesis_title }}</p>
+                                        {{ if .current_work_place }}
+                                        <p><span class="text-success">현 근무지 </span>{{ .current_work_place }}</p>
+                                        {{ end }}
                                     </div>
                                 </div>
                             </div>
