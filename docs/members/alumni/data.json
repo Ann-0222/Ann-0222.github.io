@@ -19,7 +19,18 @@
             "image": "../../images/member/leejooyoung.png",
             "bio": [],
             "research_topic": "Hybrid adsorption-photocatalysis reaction/Monitoring microplastics in freshwater",
-            "thesis_title": "Identification and quantification of microplastics in water using differential scanning calorimetry"
+            "thesis_title": "Identification and quantification of microplastics in water using differential scanning calorimetry",
+            "current_work_place": "Agilent (애질런트 사)"
+        },
+        {
+            "id": 2,
+            "title": "MS's degree",
+            "name": "장태순",
+            "en_name": "Jang, Tae Soon",
+            "image": "../../images/member/jangtaesoon.png",
+            "bio": [],
+            "research_topic": "Synthesis of plastic waste recycled functional material to treat pharmaceutical and heavy metals",
+            "thesis_title": "Simultaneous adsorption of heavy metals and dyes on sodium alginate/polyvinyl alcohol/κ-carrageenan beads"
         }
     ]
 }

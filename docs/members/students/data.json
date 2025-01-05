@@ -10,31 +10,25 @@
             "research_topic": "Monitoring microplastics in freshwater/Synthesis functionalized nanofibers"
         },
         {
-            "id": 3,
-            "title": "MS student",
-            "name": "장태순",
-            "en_name": "Jang, Tae Soon",
-            "image": "../../images/member/jangtaesoon.png",
-            "bio": [],
-            "research_topic": "Synthesis of plastic waste recycled functional material to treat pharmaceutical and heavy metals"
-        },
-        {
-            "id": 4,
+            "id": 1,
             "title": "MS student",
             "name": "최진혁",
             "en_name": "Choi, Jin Hyuk",
             "image": "../../images/member/choijinhyuk.png",
             "bio": [],
-            "research_topic": "Removal of nanoplastics using sponge material/Disinfection"
+            "research_topic": "Disinfection using non-chlorinated oxidizing agent"
+        },
+        {
+            "id": 2,
+            "title": "MS student",
+            "name": "김나래",
+            "en_name": "Kim, Na Rae",
+            "image": "../../images/member/kimnarae.png",
+            "bio": [],
+            "research_topic": "Optimization of microplastic analysis methods and protocol establishment"
         }
     ],
     "undergraduate_students": [
-        {
-            "id": 0,
-            "title": "Undergraduate",
-            "name": "김나래",
-            "en_name": "Kim, Na Rae",
-            "image": "../../images/member/kimnarae.png"
-        }
+        
     ]
 }

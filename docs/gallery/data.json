@@ -2,6 +2,18 @@
     "items": [
         {
             "images": [
+                "../../images/gallery/2024-11-conference.png"
+            ],
+            "description": "[2024.11 대한환경공학회]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2024-11-graduation.png"
+            ],
+            "description": "[2024.11 환경공학전공 학부졸업논문발표회]"
+        },
+        {
+            "images": [
                 "../../images/gallery/2024-09-graduation.png"
             ],
             "description": "[2024.9 이주영 석사 졸업 with 수지 학사 졸업]"

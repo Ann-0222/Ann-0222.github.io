@@ -3,6 +3,10 @@ title = "SCI(E) Journals"
 weight = 0
 +++
 
+&#8291;83. Lee J, Yoon S, Jang T, Choi JH, Kim N, Kim HO, Lim KS, Ha SJ, **Park JA***. A facile approach to microplastic identification and quantification using differential scanning calorimetry. Science of The Total Environment, 957, 177456, 2024
+
+&#8291;82. Kim M, Ahn YR, Yoon S, Choi J, Kim H, Lim KS, Ha SJ, **Park JA***, Kim HO*. Application of Metal-Organic Frameworks for Photocatalytic Degradation of Microplastics: Design, Challenges, and Scope. Chemosphere, 143518, 2024
+
 &#8291;81. Yoon S, Lee J, Jang T, Choi JH, Ko M, Kim HO, Ha SJ, Lim K, **Park, JA***. Assessing the abundance, sources, and potential ecological risk assessment of microplastics using their particle and mass units in Uiam lake, South Korea. Environmental Pollution, 124654, 2024
 
 &#8291;80. Jeong SW, Oh BI, Chang ES, **Park JA***, Kim HK*, Lithiophilic Reduced Graphene Oxide/Carbonized Zeolite Imidazolate Framework-8 Composite Host for Stable Li Metal Anodes. Materials, 17, 4300, 2024
